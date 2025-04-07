@@ -1,5 +1,8 @@
 streamlit
-selenium
-numpy
 pandas
-scipy
+numpy
+scikit-learn
+matplotlib
+beautifulsoup4
+requests
+
